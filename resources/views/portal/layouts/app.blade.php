@@ -68,7 +68,7 @@
                                 <a data-toggle="dropdown" class="nav-link dropdown-toggle active" href="#">About us</a>
                                 <div class="dropdown-menu">
                                     <ul> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="index.html">Fashion 1</a></li>
+                                        <li><a class="dropdown-item nav-link nav_item" href="about-us">Fashion 1</a></li>
                                     
                                     </ul>
                                 </div>   
