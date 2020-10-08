@@ -36,3 +36,5 @@ Route::middleware(['auth:sanctum', 'verified'])->get('/dashboard', function () {
 
 Route::get('/', [HomeController::class,'index']);
 Route::get('/about-us', [HomeController::class,'about_us']);
+
+

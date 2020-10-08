@@ -28,13 +28,7 @@
 
     <body>
     <!-- LOADER -->
-    <div class="preloader">
-        <div class="lds-ellipsis">
-            <span></span>
-            <span></span>
-            <span></span>
-        </div>
-    </div>
+    
     <!-- END LOADER -->
 
     <!-- START HEADER -->
@@ -87,111 +81,16 @@
                     </button>
                     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                         <ul class="navbar-nav">
-                            <li class="dropdown">
-                                <a data-toggle="dropdown" class="nav-link dropdown-toggle active" href="#">Home</a>
-                                <div class="dropdown-menu">
-                                    <ul> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="index.html">Fashion 1</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-2.html">Fashion 2</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item active" href="index-3.html">Furniture 1</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-4.html">Furniture 2</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-5.html">Electronics 1</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-6.html">Electronics 2</a></li>
-                                    </ul>
-                                </div>   
-                            </li>
-                            <li class="dropdown">
-                                <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Pages</a>
-                                <div class="dropdown-menu">
-                                    <ul> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="about.html">About Us</a></li> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="contact.html">Contact Us</a></li> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="faq.html">Faq</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="404.html">404 Error Page</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="login.html">Login</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="signup.html">Register</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="term-condition.html">Terms and Conditions</a></li>
-                                    </ul>
-                                </div>
+                            <li >
+                                <a  class="nav-link dropdown-toggle active" href="\">Home</a>
+                               
+                            <li >
+                                <a class="dropdown-toggle nav-link" href="about-us  " data-toggle="dropdown">About us</a>
+                               
                             </li>
                             <li class="dropdown dropdown-mega-menu">
                                 <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Products</a>
-                                <div class="dropdown-menu">
-                                    <ul class="mega-menu d-lg-flex">
-                                                <li class="mega-menu-col col-lg-3">
-                                                    <ul> 
-                                                        <li class="dropdown-header">Woman's</li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-list-left-sidebar.html">Vestibulum sed</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-left-sidebar.html">Donec porttitor</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-right-sidebar.html">Donec vitae facilisis</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-list.html">Curabitur tempus</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-load-more.html">Vivamus in tortor</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="mega-menu-col col-lg-3">
-                                                    <ul>
-                                                        <li class="dropdown-header">Men's</li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-cart.html">Donec vitae ante ante</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="checkout.html">Etiam ac rutrum</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="wishlist.html">Quisque condimentum</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="compare.html">Curabitur laoreet</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="order-completed.html">Vivamus in tortor</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="mega-menu-col col-lg-3">
-                                                    <ul>
-                                                        <li class="dropdown-header">Kid's</li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail.html">Donec vitae facilisis</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-left-sidebar.html">Quisque condimentum</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-right-sidebar.html">Etiam ac rutrum</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-thumbnails-left.html">Donec vitae ante ante</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-thumbnails-left.html">Donec porttitor</a></li>
-                                                    </ul>
-                                                </li>
-                                                <li class="mega-menu-col col-lg-3">
-                                                    <ul>
-                                                        <li class="dropdown-header">Accessories</li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail.html">Donec vitae facilisis</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-left-sidebar.html">Quisque condimentum</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-right-sidebar.html">Etiam ac rutrum</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-thumbnails-left.html">Donec vitae ante ante</a></li>
-                                                        <li><a class="dropdown-item nav-link nav_item" href="shop-product-detail-thumbnails-left.html">Donec porttitor</a></li>
-                                                    </ul>
-                                                </li>
-                                            </ul>
-                                    <div class="d-lg-flex menu_banners">
-                                        <div class="col-sm-4">
-                                            <div class="header-banner">
-                                                <img src="assets/images/menu_banner11.jpg" alt="menu_banner1">
-                                                <div class="banne_info">
-                                                    <h6>10% Off</h6>
-                                                    <h4>Wooden Chair</h4>
-                                                    <a href="#">Shop now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="header-banner">
-                                                <img src="assets/images/menu_banner22.jpg" alt="menu_banner2">
-                                                <div class="banne_info">
-                                                    <h6>15% Off</h6>
-                                                    <h4>Wooden Chair</h4>
-                                                    <a href="#">Shop now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                        <div class="col-sm-4">
-                                            <div class="header-banner">
-                                                <img src="assets/images/menu_banner33.jpg" alt="menu_banner3">
-                                                <div class="banne_info">
-                                                    <h6>23% Off</h6>
-                                                    <h4>Wooden Chair</h4>
-                                                    <a href="#">Shop now</a>
-                                                </div>
-                                            </div>
-                                        </div>
-                                    </div>
-                                </div>
+                                
                             </li>
                             <li class="dropdown">
                                 <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Blog</a>

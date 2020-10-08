@@ -28,13 +28,13 @@
 
     <body>
     <!-- LOADER -->
-    <div class="preloader">
+    <!-- <div class="preloader">
         <div class="lds-ellipsis">
             <span></span>
             <span></span>
             <span></span>
         </div>
-    </div>
+    </div> -->
     <!-- END LOADER -->
 
     <!-- START HEADER -->
@@ -52,26 +52,13 @@
                     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="dropdown">
-                                <a data-toggle="dropdown" class="nav-link dropdown-toggle active" href="#">Home</a>
-                                <div class="dropdown-menu">
-                                    <ul> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="index.html">Fashion 1</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-2.html">Fashion 2</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-3.html">Furniture 1</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item active" href="index-4.html">Furniture 2</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-5.html">Electronics 1</a></li>
-                                        <li><a class="dropdown-item nav-link nav_item" href="index-6.html">Electronics 2</a></li>
-                                    </ul>
-                                </div>   
+                                <a data-toggle="dropdown" class="nav-link  " href="\">Home</a>
+                               
                             </li>
-                            <li class="dropdown">
-                                <a data-toggle="dropdown" class="nav-link dropdown-toggle active" href="#">About us</a>
-                                <div class="dropdown-menu">
-                                    <ul> 
-                                        <li><a class="dropdown-item nav-link nav_item" href="about-us">Fashion 1</a></li>
-                                    
-                                    </ul>
-                                </div>   
+                            <li >
+                                <a  class="nav-link  " href="about-us">About us</a>
+                        
+                              
                             </li>
                             <li class="dropdown">
                                 <a class="dropdown-toggle nav-link" href="#" data-toggle="dropdown">Pages</a>
@@ -444,6 +431,7 @@
       <script src="{{asset('assets/bootstrap/js/bootstrap.min.js') }}"></script>
       <script src="{{asset('assets/owlcarousel/js/owl.carousel.min.js') }}"></script>
       <script src="{{asset('assets/js/magnific-popup.min.js') }}"></script>
+      <script src="{{asset('assets/js/waypoints.min.js') }}"></script> 
       <script src="{{asset('assets/js/parallax.js') }}"></script>
       <script src="{{asset('assets/js/jquery.countdown.min.js') }}"></script>
       <script src="{{asset('assets/js/jquery.countdown.min.js') }}"></script>

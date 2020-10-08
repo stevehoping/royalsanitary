@@ -15,4 +15,6 @@ class HomeController extends Controller
     {
         return view('portal.about-us.index');   
     }
+
+    
 }
