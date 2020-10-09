@@ -72,7 +72,7 @@
         				<div class="col-lg-3 col-md-4">
                         	<div class="text-center text-md-left">
                                 <h4>Top Categories</h4>
-                                <p class="mb-2">There are many variations of passages of Lorem</p>
+                                <p class="mb-2">There are many variety of product</p>
                                 <a href="#" class="btn btn-line-fill btn-sm">View All</a>
                             </div>
                         </div>
@@ -90,7 +90,7 @@
                                     <div class="categories_box">
                                         <a href="#">
                                             <i class="flaticon-table"></i>
-                                            <span>Dining Table</span>
+                                            <span>Kitcken Tiles</span>
                                         </a>
                                     </div>
                                 </div>
@@ -98,7 +98,7 @@
                                     <div class="categories_box">
                                         <a href="#">
                                             <i class="flaticon-sofa"></i>
-                                            <span>Sofa</span>
+                                            <span>Outdoor tiles</span>
                                         </a>
                                     </div>
                                 </div>
@@ -106,7 +106,7 @@
                                     <div class="categories_box">
                                         <a href="#">
                                             <i class="flaticon-armchair"></i>
-                                            <span>Armchair</span>
+                                            <span>Bathroom Fittings</span>
                                         </a>
                                     </div>
                                 </div>
@@ -114,7 +114,7 @@
                                     <div class="categories_box">
                                         <a href="#">
                                             <i class="flaticon-chair"></i>
-                                            <span>chair</span>
+                                            <span>Granites</span>
                                         </a>
                                     </div>
                                 </div>
@@ -122,7 +122,7 @@
                                     <div class="categories_box">
                                         <a href="#">
                                             <i class="flaticon-desk-lamp"></i>
-                                            <span>desk lamp</span>
+                                            <span>Interiar fittings</span>
                                         </a>
                                     </div>
                                 </div>
@@ -152,7 +152,7 @@
                 <div class="product_box text-center">
                     <div class="product_img">
                         <a href="shop-product-detail.html">
-                            <img src="assets/images/furniture_img1.jpg" alt="furniture_img1">
+                            <img src="assets/images/tiles1.jpg" alt="furniture_img1">
                         </a>
                         <div class="product_action_box">
                             <ul class="list_none pr_action_btn">
@@ -163,9 +163,9 @@
                         </div>
                     </div>
                     <div class="product_info">
-                        <h6 class="product_title"><a href="shop-product-detail.html">enim expedita sed</a></h6>
+                        <h6 class="product_title"><a href="shop-product-detail.html"> Smartstorey</a></h6>
                         <div class="product_price">
-                            <span class="price">$45.00</span>
+                            <span class="price"><span style='font-family:Arial;'>&#8377;</span> 45.00</span>
                             <del>$55.25</del>
                         </div>
                         <div class="rating_wrap">
@@ -187,7 +187,7 @@
                 <div class="product_box text-center">
                     <div class="product_img">
                         <a href="shop-product-detail.html">
-                            <img src="assets/images/furniture_img2.jpg" alt="furniture_img2">
+                            <img src="assets/images/tiles2.jpg" alt="furniture_img2">
                         </a>
                         <div class="product_action_box">
                             <ul class="list_none pr_action_btn">
@@ -200,7 +200,7 @@
                     <div class="product_info">
                         <h6 class="product_title"><a href="shop-product-detail.html">adipisci officia libero</a></h6>
                         <div class="product_price">
-                            <span class="price">$55.00</span>
+                            <span class="price"><span style='font-family:Arial;'>&#8377;</span> 55.00</span>
                             <del>$95.00</del>
                         </div>
                         <div class="rating_wrap">
@@ -222,7 +222,7 @@
                 <div class="product_box text-center">
                     <div class="product_img">
                         <a href="shop-product-detail.html">
-                            <img src="assets/images/furniture_img3.jpg" alt="furniture_img3">
+                            <img src="assets/images/dina1.jpg" alt="furniture_img3">
                         </a>
                         <div class="product_action_box">
                             <ul class="list_none pr_action_btn">
@@ -233,9 +233,9 @@
                         </div>
                     </div>
                     <div class="product_info">
-                        <h6 class="product_title"><a href="shop-product-detail.html">Internet tend to repeat</a></h6>
+                        <h6 class="product_title"><a href="shop-product-detail.html">Dyna Roof</a></h6>
                         <div class="product_price">
-                            <span class="price">$68.00</span>
+                            <span class="price"><span style='font-family:Arial;'>&#8377;</span>68.00</span>
                             <del>$99.00</del>
                         </div>
                         <div class="rating_wrap">
@@ -257,7 +257,7 @@
                 <div class="product_box text-center">
                     <div class="product_img">
                         <a href="shop-product-detail.html">
-                            <img src="assets/images/furniture_img4.jpg" alt="furniture_img4">
+                            <img src="assets/images/bathroom1.jpg" alt="furniture_img4">
                         </a>
                         <div class="product_action_box">
                             <ul class="list_none pr_action_btn">
@@ -268,9 +268,9 @@
                         </div>
                     </div>
                     <div class="product_info">
-                        <h6 class="product_title"><a href="shop-product-detail.html">Many desktop publishing</a></h6>
+                        <h6 class="product_title"><a href="shop-product-detail.html">Bathroom Feetings</a></h6>
                         <div class="product_price">
-                            <span class="price">$69.00</span>
+                            <span class="price"><span style='font-family:Arial;'>&#8377;</span>69.00</span>
                             <del>$89.00</del>
                         </div>
                         <div class="rating_wrap">
