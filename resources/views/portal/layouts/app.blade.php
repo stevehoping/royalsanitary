@@ -52,7 +52,7 @@
                     <div class="collapse navbar-collapse justify-content-center" id="navbarSupportedContent">
                         <ul class="navbar-nav">
                             <li class="dropdown">
-                                <a data-toggle="dropdown" class="nav-link  " href="\">Home</a>
+                                <a data-toggle="dropdown" class="nav-link  " href="home">Home</a>
                                
                             </li>
                             <li >
